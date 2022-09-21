@@ -1,0 +1,21 @@
+It´s All About Color
+
+- 3D first person quest game where you need to help the villagers of the town to find certain objects that they need.
+
+- The atmospehre is in a cold theme with black and white tones.
+
+- The art is based in Low-Polly models 
+
+- Once you complete certain quests the world around you will change in a more colorfull way and the objective is to finish the game
+with a different scenario that the one which you started playing.
+
+- The scenario will change with different materials assigned to  buildings or nature. Also the sounds can change making the final 
+part of the game complete different that the one you started.
+
+- Typical imputs of a 1st person game (WASD to move / Jump / Sprint)
+
+- The colors / materials / sounds of the game are the main core of the story
+
+
+
+Inspiration games : Gris / Geometry Dash / Journey
